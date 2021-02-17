@@ -16,7 +16,7 @@ import webbrowser
 
 import pyperclip
 
-GHgist = Simplegist(username='Leon-96', api_token='ddca1e9a1e2e7cd38ec5823061aaf587d05a4cd1')
+GHgist = Simplegist(username='', api_token='')
 
 # root basic stuff
 
